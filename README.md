@@ -1,6 +1,6 @@
 # Converter um texto digitado para letra cursiva.
 
-Primeiro instale as biblioteca necessárias
+## Primeiro instale as biblioteca necessárias
 
 PySimpleGUI
 ```bash
